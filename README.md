@@ -1,4 +1,4 @@
-<img src="C:\Users\buzuc\Downloads\Captura de tela 2026-11-07 180034.jpg" alt="Alt Text" width="500">
+<img src="C:\Users\buzuc\Downloads\Captura de tela 2026-11-07 180034.jpg" width="500">
 
 # Checado e reorganizado
 ## Guia de estudos para o ENEM
