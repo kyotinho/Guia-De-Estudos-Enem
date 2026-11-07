@@ -24,5 +24,7 @@ Conteúdo:
 ### Fontes recomendadas
   - Fontes recomendadas de estudo
 
+## Modo de Instalação
+Baixe o arquivo "Enem-Final.html" no repositório e abra-o, simples assim, é um html nativo, o que significa que ele roda em qualquer navegador como um arquivo web
 
 Esse projeto faz parte da iniciativa própria de um ambiente de conteúdo e anotações democratizadas e de livre acesso por autoria própria (Kyoto), saiba mais [aqui](https://discord.gg/YSz42UcFAn).
