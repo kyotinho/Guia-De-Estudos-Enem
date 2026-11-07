@@ -1,4 +1,4 @@
-<img src="C:\Users\buzuc\Downloads\Captura de tela 2026-11-07 180034.jpg" width="500">
+[Logo](https://github.com/kyotinho/Guia-De-Estudos-Enem/blob/main/Captura%20de%20tela%202026-11-07%20180034.jpg)
 
 # Checado e reorganizado
 ## Guia de estudos para o ENEM
