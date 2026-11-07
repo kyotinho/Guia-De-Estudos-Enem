@@ -1,4 +1,4 @@
-[Logo](https://github.com/kyotinho/Guia-De-Estudos-Enem/blob/main/Captura%20de%20tela%202026-11-07%20180034.jpg)
+![alt text](https://github.com/kyotinho/Guia-De-Estudos-Enem/blob/main/Captura%20de%20tela%202026-11-07%20180034.jpg)
 
 # Checado e reorganizado
 ## Guia de estudos para o ENEM
